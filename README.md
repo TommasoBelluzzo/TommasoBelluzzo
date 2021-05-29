@@ -15,7 +15,6 @@
 [![](https://img.shields.io/badge/DB-Oracle%20Database-informational?style=flat&logo=oracle&logoColor=FFFFFF&color=2BBC8A)](#)
 [![](https://img.shields.io/badge/DB-Microsoft%20SQL%20Server-informational?style=flat&logo=microsoft&logoColor=FFFFFF&color=2BBC8A)](#)
 [![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=FFFFFF&color=2BBC8A)](#)
-[![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=FFFFFF&color=2BBC8A)](#)
 [![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=sqlite&logoColor=FFFFFF&color=2BBC8A)](#)
 
 [![](https://img.shields.io/badge/Tools-Bash-informational?style=flat&logo=gnu-bash&logoColor=FFFFFF&color=2BBC8A)](#)
