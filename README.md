@@ -11,7 +11,6 @@
 [![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=FFFFFF&color=2BBC8A)](#)
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=FFFFFF&color=2BBC8A)](#)
 [![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=FFFFFF&color=2BBC8A)](#)
-[![](https://img.shields.io/badge/Code-Vue%2Ejs-informational?style=flat&logo=vue-dot.js&logoColor=FFFFFF&color=2BBC8A)](#)
 
 [![](https://img.shields.io/badge/DB-Oracle%20Database-informational?style=flat&logo=oracle&logoColor=FFFFFF&color=2BBC8A)](#)
 [![](https://img.shields.io/badge/DB-Microsoft%20SQL%20Server-informational?style=flat&logo=microsoft&logoColor=FFFFFF&color=2BBC8A)](#)
