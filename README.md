@@ -32,3 +32,9 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TommasoBelluzzo&langs_count=5&hide=css,html,jupyter%20notebook,text,smalltalk&layout=compact&bg_color=555555&title_color=FFFFFF&text_color=FFFFFF" alt="Most Used Languages"/>
 </a>
+
+## 🙏 Donation
+
+If you found any of my projects useful to you, please consider making a donation to support its maintenance and development:
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ASMXC3LYNV96J"><img alt="PayPal" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"/></a>
