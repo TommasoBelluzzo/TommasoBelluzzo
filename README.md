@@ -25,7 +25,7 @@
 ## 📈 GitHub Stats <a href="#"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TommasoBelluzzo/&title=Profile%20Views" alt="Profile Views"/></a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TommasoBelluzzo&include_all_commits=true&count_private=true&hide=contribs&custom_title=User%20Activity&disable_animations=true&show_icons=true&line_height=24&bg_color=555555&title_color=FFFFFF&text_color=FFFFFF&icon_color=79C83D" alt="User Activity"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TommasoBelluzzo&include_all_commits=true&count_private=true&hide=contribs&custom_title=User%20Activity&disable_animations=true&show_icons=true&hide_rank=true&line_height=24&bg_color=555555&title_color=FFFFFF&text_color=FFFFFF&icon_color=79C83D" alt="User Activity"/>
 </a>
 
 <a href="#">
