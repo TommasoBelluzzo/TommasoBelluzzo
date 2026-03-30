@@ -6,9 +6,7 @@
 [![](https://img.shields.io/badge/Code-%2ENET-informational?style=flat&logo=dot-net&logoColor=FFFFFF&color=79C83D)](#)
 [![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=FFFFFF&color=79C83D)](#)
 [![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=FFFFFF&color=79C83D)](#)
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=FFFFFF&color=79C83D)](#)
 [![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=mathworks&logoColor=FFFFFF&color=79C83D)](#)
-[![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=FFFFFF&color=79C83D)](#)
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=FFFFFF&color=79C83D)](#)
 [![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=FFFFFF&color=79C83D)](#)
 
