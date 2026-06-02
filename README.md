@@ -3,12 +3,12 @@
 [![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=FFFFFF&color=79C83D)](#)
 [![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=FFFFFF&color=79C83D)](#)
 
-[![](https://img.shields.io/badge/Code-%2ENET-informational?style=flat&logo=dot-net&logoColor=FFFFFF&color=79C83D)](#)
-[![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=FFFFFF&color=79C83D)](#)
-[![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=FFFFFF&color=79C83D)](#)
-[![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=mathworks&logoColor=FFFFFF&color=79C83D)](#)
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=FFFFFF&color=79C83D)](#)
+[![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=mathworks&logoColor=FFFFFF&color=79C83D)](#)
 [![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=FFFFFF&color=79C83D)](#)
+[![](https://img.shields.io/badge/Code-%2ENET-informational?style=flat&logo=dot-net&logoColor=FFFFFF&color=79C83D)](#)
+[![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=FFFFFF&color=79C83D)](#)
+[![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=FFFFFF&color=79C83D)](#)
 
 [![](https://img.shields.io/badge/DB-Oracle%20Database-informational?style=flat&logo=oracle&logoColor=FFFFFF&color=79C83D)](#)
 [![](https://img.shields.io/badge/DB-Microsoft%20SQL%20Server-informational?style=flat&logo=microsoft&logoColor=FFFFFF&color=79C83D)](#)
