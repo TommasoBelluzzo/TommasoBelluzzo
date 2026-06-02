@@ -23,6 +23,10 @@
 ## 📈 GitHub Stats
 
 <a href="#">
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=TommasoBelluzzo&include_all_commits=true&count_private=true&hide=contribs&custom_title=User%20Activity&disable_animations=true&show_icons=true&hide_rank=true&line_height=24&bg_color=555555&title_color=FFFFFF&text_color=FFFFFF&icon_color=79C83D" alt="User Activity"/>
+</a>
+
+<a href="#">
   <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TommasoBelluzzo&langs_count=5&hide=css,html,jupyter%20notebook,text,smalltalk&layout=compact&bg_color=555555&title_color=FFFFFF&text_color=FFFFFF" alt="Most Used Languages"/>
 </a>
 
