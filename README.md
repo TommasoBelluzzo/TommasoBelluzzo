@@ -1,7 +1,7 @@
 ## 🔧 Technologies
 
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=FFFFFF&color=79C83D)](#)
 [![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=FFFFFF&color=79C83D)](#)
+[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=FFFFFF&color=79C83D)](#)
 
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=FFFFFF&color=79C83D)](#)
 [![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=mathworks&logoColor=FFFFFF&color=79C83D)](#)
@@ -15,9 +15,9 @@
 [![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=FFFFFF&color=79C83D)](#)
 [![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=sqlite&logoColor=FFFFFF&color=79C83D)](#)
 
-[![](https://img.shields.io/badge/Tools-Bash-informational?style=flat&logo=gnu-bash&logoColor=FFFFFF&color=79C83D)](#)
-[![](https://img.shields.io/badge/Tools-Notepad%2B%2B-informational?style=flat&logo=notepad%2B%2B&logoColor=FFFFFF&color=79C83D)](#)
 [![](https://img.shields.io/badge/Tools-Microsoft%20Office-informational?style=flat&logo=microsoft&logoColor=FFFFFF&color=79C83D)](#)
+[![](https://img.shields.io/badge/Tools-Notepad%2B%2B-informational?style=flat&logo=notepad%2B%2B&logoColor=FFFFFF&color=79C83D)](#)
+[![](https://img.shields.io/badge/Tools-Bash-informational?style=flat&logo=gnu-bash&logoColor=FFFFFF&color=79C83D)](#)
 [![](https://img.shields.io/badge/Tools-PowerShell-informational?style=flat&logo=powershell&logoColor=FFFFFF&color=79C83D)](#)
 
 ## 📈 GitHub Stats
