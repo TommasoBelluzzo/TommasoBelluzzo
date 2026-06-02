@@ -27,7 +27,7 @@
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TommasoBelluzzo&langs_count=5&hide=css,html,jupyter%20notebook,text,smalltalk&layout=compact&bg_color=555555&title_color=FFFFFF&text_color=FFFFFF" alt="Most Used Languages"/>
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TommasoBelluzzo&langs_count=6&hide=css,html,jupyter%20notebook,text,smalltalk&layout=compact&bg_color=555555&title_color=FFFFFF&text_color=FFFFFF" alt="Most Used Languages"/>
 </a>
 
 ## 🙏 Donation
